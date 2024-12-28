@@ -3,7 +3,7 @@ title: "渋谷ハーレムでHEATUP"
 date: 2023-08-14
 draft: false
 summary: "東京で踊ってみた。"
-tags: ["ダンス"]
+tags: ["ダンス","東京"]
 ---
 
 ## 楽しかった
