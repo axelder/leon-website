@@ -1,3 +1,6 @@
+#generated files
+resources
+
 #others
 node_modules
 .hugo_build.lock
