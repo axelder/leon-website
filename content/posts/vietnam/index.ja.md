@@ -3,7 +3,7 @@ title: "ベトナム"
 date: 2023-08-14
 draft: false
 summary: "東京で踊ってみた。"
-tags: ["旅行","ベトナム"]
+tags: ["旅行"]
 ---
 
 ## 楽しかった
