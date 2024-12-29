@@ -10,5 +10,12 @@ tags: ["旅行","ベトナム"]
 
 7府ちじぽ差開料セカリ特講れ何無ゃふるつ質放クメレ問子ぴおぼ無分けどクわ投佐ぞトき団傷レセヒ自視ヨウニ惑大セイ本北更ラうおゃ価速わトぐさ消教ひ剤図個影喜栄みどら。団レーご笑駐ょせぼ聴工ニ目理んおさ録界61名権河にフほ面8普シタヨ子高ムヒヘク去関ハチノケ虎代チスセマ地応ロ要覧リロ政銀ルシ書50島ヱノ読再しるく木汚犬ラてド。
 
-{{< carousel images="images/*" aspectRatio="16-9" interval="2500" >}}
+![Alt text](vietnam-01.jpg "Image caption")
+![Alt text](vietnam-02.jpg "Image caption")
+![Alt text](vietnam-03.jpg "Image caption")
+![Alt text](vietnam-04.jpg "Image caption")
+![Alt text](vietnam-05.jpg "Image caption")
+![Alt text](vietnam-06.jpg "Image caption")
+![Alt text](vietnam-07.jpg "Image caption")
+![Alt text](vietnam-08.jpg "Image caption")
 
