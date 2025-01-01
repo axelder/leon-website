@@ -9,7 +9,7 @@ colorScheme = "forest"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
 
-enableSearch = true
+enableSearch = false
 enableCodeCopy = false
 
 replyByEmail = false
@@ -19,14 +19,14 @@ replyByEmail = false
 
 disableImageOptimization = false
 disableTextInHeader = false
-# backgroundImageWidth = 1200
+backgroundImageWidth = 1200
 
 defaultBackgroundImage = "background.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
-# highlightCurrentMenuArea = true
-# smartTOC = true
-# smartTOCHideUnfocusedChildren = true
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
 
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
@@ -77,7 +77,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showTableOfContents = false
   showRelatedContent = true
   relatedContentLimit = 3
-  showTaxonomies = false
+  showTaxonomies = true
   showAuthorsBadges = true
   showWordCount = false
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]

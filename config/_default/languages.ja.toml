@@ -1,24 +1,24 @@
 disabled = false
 languageCode = "ja"
-languageName = "日本語"
+languageName = "Japanese"
 weight = 1
 title = "デルベ　蓮音"
 
 [params]
-  displayName = "JA"
+  displayName = "日本語"
   isoCode = "ja"
   rtl = false
   dateFormat = "2006年 January 2日"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  # logo = "logo.png"
+  # secondaryLogo = "secondary-logo.png"
+  description = "デルベ蓮音のホームページ"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
   name = "デルベ　蓮音"
 #   email = "youremail@example.com"
   image = "profile.jpg"
-#   imageQuality = 96
+  imageQuality = 96
   headline = "ホームページ"
 #   bio = ""
 #   links = [
