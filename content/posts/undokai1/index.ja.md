@@ -1,6 +1,6 @@
 ---
-title: "undokai"
-date: 2023-08-14
+title: "運動会2024年"
+date: 2024-10-21
 draft: false
 summary: "東京で踊ってみた。"
 tags: ["学校","八丈島"]

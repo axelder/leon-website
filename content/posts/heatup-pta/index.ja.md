@@ -1,6 +1,6 @@
 ---
 title: "HEATUP PTA"
-date: 2023-08-14
+date: 2024-11-16
 draft: false
 summary: "東京で踊ってみた。"
 tags: ["ダンス","八丈島"]

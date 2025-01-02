@@ -1,7 +1,7 @@
 ---
 title: "ベトナム"
-date: 2023-08-14
-draft: false
+date: 2023-08-27
+draft: true
 summary: "東京で踊ってみた。"
 tags: ["旅行"]
 ---

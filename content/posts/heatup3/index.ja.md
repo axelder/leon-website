@@ -1,6 +1,6 @@
 ---
 title: "heatup3"
-date: 2023-08-14
+date: 2024-07-20
 draft: false
 summary: "東京で踊ってみた。"
 tags: ["ダンス","八丈島"]

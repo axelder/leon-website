@@ -1,7 +1,7 @@
 ---
 title: "中山道"
-date: 2023-08-14
-draft: false
+date: 2024-08-01
+draft: true
 summary: "中山道で歩いてみた。"
 tags: ["旅行"]
 ---
