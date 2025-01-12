@@ -1,7 +1,7 @@
 ---
 title: "Hachijo"
 date: 2023-08-14
-draft: false
+draft: true
 summary: "東京で踊ってみた。"
 tags: ["八丈島"]
 ---
