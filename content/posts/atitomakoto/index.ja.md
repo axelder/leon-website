@@ -10,4 +10,6 @@ tags: ["音楽","作曲"]
 
 一番最初に作った曲です。先生に少しずつ助けてもらいながら頑張って作りました。
 
-![Alt text](featured.jpg "Image caption")
+{{< soundcloud-track 2008910891 >}}
+
+![](featured.jpg)
