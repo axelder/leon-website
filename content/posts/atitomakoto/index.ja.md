@@ -1,6 +1,6 @@
 ---
 title: "愛と誠"
-date: 2024-08-01
+date: 2022-03-13
 draft: false
 summary: "初めての作曲"
 tags: ["音楽","作曲"]

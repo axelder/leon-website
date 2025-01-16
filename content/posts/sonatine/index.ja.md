@@ -1,6 +1,6 @@
 ---
 title: "ソナチネOP.1"
-date: 2023-08-14
+date: 2024-03-14
 draft: false
 summary: "作曲"
 tags: ["作曲","音楽"]
