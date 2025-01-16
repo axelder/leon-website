@@ -6,7 +6,7 @@ summary: "作曲"
 tags: ["作曲","音楽"]
 ---
 
-## 作曲
+祖母の住む街・カオールでの印象を、曲で表しました。
 
 ![Alt text](featured.jpg "Image caption")
 ![Alt text](cahors-2.jpg "Image caption")
